@@ -17,3 +17,7 @@ Welcome to the third week, and the third entry, of my weekly Coding Bootcamp Blo
 Tune in next week for another update on my journey!
 
 ![I find your lack of Psuedocode Disturbing](img/download.jpeg)
+
+# September 19, 2021
+
+Wow, four weeks down! I can't believe I have been able to make it through the first month of the coding bootcamp. In those four weeks we have learned how to use Github, HTML, CSS, JavaScript, and how to Pseudocode. I have to say if it wasn't for the help of our instructors or my fellow classmates this would have been almost impossible. I can't wait to start in person classes this coming week. Personally I have found that remote learning has not been easy. 
