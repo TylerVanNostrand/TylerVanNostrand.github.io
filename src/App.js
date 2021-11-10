@@ -7,7 +7,7 @@ import Home from './Pages/Home';
 import Blog from './Pages/Blog';
 import AboutMe from './Pages/AboutMe';
 import ProjectPage from './Pages/ProjectPage';
-import { BrowserRouter, Route, Switch, } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 function App() {
     return (
@@ -20,11 +20,11 @@ function App() {
                             <Route path="/aboutme">
                                 <AboutMe />
                             </Route>
-                            <Route path="/projects">
-                                <ProjectPage />
-                            </Route>
                             <Route path="/blog">
                                 <Blog />
+                                <Route path="/projects">
+                                    <ProjectPage />
+                                </Route>
                             </Route>
                             <Route path="/">
                                 <Home />
