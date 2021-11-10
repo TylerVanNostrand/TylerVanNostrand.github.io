@@ -11,12 +11,13 @@ export default function AboutMe() {
                     </div>
                 </div>
                 <div className="text-center text-white">
-                    <p>Born and raised in Haw River, North Carolina I moved to Lexington, Kentucky in April of 2021. A former small business owner,
+                    <p>Born and raised in Haw River, North Carolina I moved to Lexington, Kentucky in April of 2021. A former small business owner and restauranteur,
                     I decided that I wanted to try something new in my life. With over a decade of Management and Project Management
-                    experience, I realized that there was no longer any room for advancement in the field of work I found my self.
-                    For the past 16 weeks, I have explored a career change by attending Awesome Inc U's Full Stack Web Development Bootcamp.
-                    I have been able to learn at a rapid pace with deep dives into HTML, CSS, JavaScript, Bootstrap, React, PHP, SQL, and Laravel.
-                        I hope to combine my pre-Bootcamp skills, with my Bootcamp knowledge to provide the skills necessary to complete tasks and projects as a team. </p>
+                    experience, I realized that there was no longer any room for advancement in the field of work I had found my self in. So I decided
+                    it was time for a change. That was when a family member suggested I try coding. So for the past 16 weeks, I have explored a career change
+                    by attending Awesome Inc's Full Stack Web Development Bootcamp. I have been able to learn at a rapid pace with deep dives into:
+                    HTML, CSS, JavaScript, Bootstrap, React, PHP, SQL, and Laravel. I hope to combine my pre-Bootcamp skills, with my Bootcamp knowledge
+                    to provide the skills necessary to complete tasks and projects as a team. </p>
                 </div>
                 <div className='col-4 justify-content-center'>
                 </div>
