@@ -8,7 +8,7 @@ export default function Header() {
         <div className="row text-center back sticky-top">
             <div className="col-12 text-center d-flex justify-content-center back">
                 <Navbar variant="dark" expand="lg" className='text-center back'>
-                    <Navbar.Brand as={Link} to="/">Tyler Van Nostrand | Web Developer</Navbar.Brand>
+                    <Navbar.Brand as={Link} to="/">Tyler Van Nostrand | Portfolio</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav back">
                         <Nav className="mr-auto back">

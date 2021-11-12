@@ -11,7 +11,7 @@ export default function Footer() {
                 <Nav className="mr-auto">
                 </Nav>
             </Navbar>
-            <h6><a className='text-decoration-none text-white text-center' target='_blank' rel='noreferrer' href="https://forms.gle/V4yVaZma3svHp8kg9">Contact Me Here!</a></h6>
+            <h5><a className='text-decoration-none text-white text-center' target='_blank' rel='noreferrer' href="https://forms.gle/V4yVaZma3svHp8kg9">Contact Me Here!</a></h5>
             <Links />
         </footer>
     )
