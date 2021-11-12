@@ -28,7 +28,8 @@ export default function Week2() {
                         is here and the in-person portion of the Bootcamp is about to start. I feel like in-person learning
                         is really going to elevate my game! It was also be good to hangout with me classmates instead of only
                         interacting with them on Zoom.</p>
-
+                        <img src="/img/html.png"
+                            class="rounded mx-auto d-block img-fluid img-thumbnail w-50 p-2" alt="..." />
                         <div class="card-footer">
                             <small class="">Week of August 30 to September 5, 2021</small>
                         </div>
