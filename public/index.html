@@ -24,7 +24,7 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>Tyler VanNostrand Portfolio</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -39,5 +39,29 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyCkslg-yubYU9idk39pB9wKc0_Wx0MvBaU",
+          authDomain: "portfolio-tv.firebaseapp.com",
+          projectId: "portfolio-tv",
+          storageBucket: "portfolio-tv.appspot.com",
+          messagingSenderId: "796163794194",
+          appId: "1:796163794194:web:90df82865bb060d5a9bfcb",
+          measurementId: "G-7BKMJM9TL2"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+      </script>
   </body>
 </html>
